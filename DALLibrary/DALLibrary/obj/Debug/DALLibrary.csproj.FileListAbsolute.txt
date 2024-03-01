@@ -1,0 +1,28 @@
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\DALLibrary.dll.config
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\DALLibrary.dll
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\DALLibrary.pdb
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\EntityFramework.dll
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\EntityFramework.xml
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.AssemblyReference.cache
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.CoreCompileInputs.cache
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.CopyComplete
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.dll
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.pdb
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.Migrations.CLinicMig.resources
+C:\Users\navee\Desktop\ClinicalAutomation\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.GenerateResource.cache
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\DALLibrary.dll.config
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\DALLibrary.dll
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\DALLibrary.pdb
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\EntityFramework.dll
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\EntityFramework.SqlServer.dll
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\EntityFramework.xml
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\bin\Debug\EntityFramework.SqlServer.xml
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.AssemblyReference.cache
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.CoreCompileInputs.cache
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.CopyComplete
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.dll
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.pdb
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.Migrations.figMig.resources
+D:\rll\DALLibrary (4)\DALLibrary\DALLibrary\obj\Debug\DALLibrary.csproj.GenerateResource.cache
